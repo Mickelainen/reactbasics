@@ -4,7 +4,7 @@ import { Navigation } from "./components/navigation/Navigation";
 import { UserProvider } from "./shared/Provider/UserProvider";
 
 
-const { render } = require("@testing-library/react");
+// const { render } = require("@testing-library/react");
 
 function App () {
   return (

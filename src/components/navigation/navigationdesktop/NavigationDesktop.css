@@ -20,3 +20,10 @@
     grid-column: 2;
     font-size: 1.5em;
 }
+
+.nav-desktop-login {
+    display: flex;
+    justify-self: end;
+    gap: 1em;
+    
+}
